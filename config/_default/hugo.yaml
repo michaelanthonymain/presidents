@@ -3,7 +3,7 @@
 ############################
 
 baseURL: "https://michaelanthonymain.github.io/presidents"
-title: presidents
+title: Presidents in Outer Space
 
 ############################
 ## MISC
@@ -13,3 +13,7 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
