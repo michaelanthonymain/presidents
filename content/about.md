@@ -3,10 +3,10 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: michaelanthonymain
+jobTitle: President of the Moon
+name: Sami and Derek
 bio: true
-icon: ":coffee:"
+icon: ":moon:"
 ---
 
-Add your Bio here!:+1:
+This is the series About page!

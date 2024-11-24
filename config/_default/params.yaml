@@ -3,23 +3,25 @@
 ############################
 
 author:
-  name: michaelanthonymain
+  name: Presidents in Outer Space
   image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  greeting: "A web series by Derek Cox and Sami Smith"
+  icon: ":moon:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/michaelanthonymain/presidents
-  - link: https://github.com/michaelanthonymain/presidents#readme
+  - instagram: https://www.instagram.com/dgcox
+  - instagram: https://www.instagram.com/sami.smith23
+  - youtube: 
+  # - github: https://github.com/michaelanthonymain/presidents
+  # - link: https://github.com/michaelanthonymain/presidents#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
   # - linkedin: 
-  # - instagram: 
   # - reddit: 
   # - telegram: 
   # - whatsapp: 
@@ -37,7 +39,6 @@ links:
   # - dribbble: 
   # - stack-exchange: 
   # - tiktok: 
-  # - youtube: 
   # - keybase: 
   # - flickr: 
   # - tumblr: 
@@ -64,7 +65,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: presidents
-description: "Site build with Qubt & Hugo"
+title: Presidents in Outer Space
+description: "A web series by Derek Cox and Sami Smith"
 images:
   - thumbnail.png
