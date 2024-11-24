@@ -4,7 +4,7 @@
 
 author:
   name: Presidents in Outer Space
-  image: author.png
+  image: poster.jpg
   greeting: "A web series by Derek Cox and Sami Smith"
   icon: ":moon:"
 
@@ -15,7 +15,8 @@ author:
 links:
   - instagram: https://www.instagram.com/dgcox
   - instagram: https://www.instagram.com/sami.smith23
-  - youtube: 
+  - youtube: https://www.youtube.com/playlist?list=PLNxcJD_3-vybfIYy4aG69Ypt4q7MUHzdO 
+  - website: https://www.polymyth.com
   # - github: https://github.com/michaelanthonymain/presidents
   # - link: https://github.com/michaelanthonymain/presidents#readme
   # - website: 
@@ -68,4 +69,4 @@ links:
 title: Presidents in Outer Space
 description: "A web series by Derek Cox and Sami Smith"
 images:
-  - thumbnail.png
+  - poster.jpg
